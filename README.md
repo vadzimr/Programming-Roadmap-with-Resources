@@ -75,7 +75,7 @@ All what we need to ensure during development is - the clarity of what we are de
 
 ### For C/C++ Developers:
 
-1. GUI Development
+1. [GUI Development](5_Develop_Something/For&#32;C-C++&#32;Developers/GUI&#32;Development.md)
 2. Game Development
 3. OS Development
 4. Programming Language Development
