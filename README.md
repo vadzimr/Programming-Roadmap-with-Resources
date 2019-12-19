@@ -1,12 +1,17 @@
-![Getting Started Quote](https://pbs.twimg.com/media/D2cr946WkAA6BaJ.jpg)
+![Getting Started Quote](Images/Introduction&#32;quote.jpg)
 
+>**Note:** The aim of this resource guide is not to be quantitative,  but to be qualitative. 
+>- You can make a *pull request* if you want to suggest some better resources, add some resources or make any improvements.
+>- If any of the link doesn't work, you can put an *issue.*
+>
+> ENJOY & KEEP PROGRAMMING! 
 <hr/>
 
 # Guide to Programming:
 
 ## 1. Choose your Programming Language
 
-![Learn how to program](https://www.azquotes.com/vangogh-image-quotes/72/21/Quotation-Mark-Zuckerberg-My-number-one-piece-of-advice-is-you-should-learn-72-21-21.jpg)
+![Learn how to program](Images/Learn&#32;how&#32;to&#32;code.jpg)
 
 There are multiple programming languages available in market, but most of them don't make a good choice to start with. If you are new to programming, the ideal choice of learning a programming language should be from any of these four - **C, C++, Java or Python.** 
 
@@ -19,15 +24,17 @@ Here are few points (in my opinion):
 
 **Resource Links:**
 
- - C and C++
- - Java
- - Python
+ - [C and C++](1_Learn_Language/C&#32;and&#32;C++.md)
+ - [Java](1_Learn_Language/Java.md)
+ - [Python](1_Learn_Language/Python.md)
 
 > **Note:** Once you've learnt a couple of programming languages, rest all become a piece of cake and take only a few days to get hands comfortable on them. The only care which you should take is - just don't involve yourself too much in learning more number of languages that you forget to study the rest of the programming concepts. 
 
+<hr/>
+
 ## 2. Learn 'Data Structures' and 'Algorithms'
 
-![Importance of Data structures](https://www.azquotes.com/picture-quotes/quote-smart-data-structures-and-dumb-code-works-a-lot-better-than-the-other-way-around-eric-s-raymond-63-60-65.jpg)
+![Importance of Data structures](Images/Importance&#32;of&#32;DS.jpg)
 
 Once you start feeling comfortable with your programming language, master **data structures** and **algorithms** in it. In programming, one thing which we are most concerned about is - **the data**. Data dominates. And if you've chosen the right data structures, organized things well, used appropriate algorithms; your code will orchestrate the data to create symphonies. Thus, data structures and algorithms are central to programming.
 
@@ -35,12 +42,14 @@ Once you start feeling comfortable with your programming language, master **data
 
 **Resource Links:**
 
- - Data Structures 
- - Algorithms
+ - [Data Structures](2_DSA/DS.md)
+ - [Algorithms](2_DSA/Algos.md)
+
+<hr/>
 
 ## 3.  Try - Competitive Programming!
 
-![Practice is the key in programming](https://www.azquotes.com/picture-quotes/quote-programming-is-a-skill-best-acquired-by-practice-and-example-rather-than-from-books-alan-turing-84-73-77.jpg)
+![Practice is the key in programming](Images/Practicing&#32;is&#32;key&#32;in&#32;programming.jpg)
 
 Once you are well equipped with 'Data Structures and Algorithms', you must try **Competitive Programming** atleast once. 
 
@@ -48,12 +57,13 @@ Competitive Programming is a stage when writing codes turns as similar as solvin
 
 **Resource Links:**
 
- - Learn Competitive Programming
- - Practice!
+ - [Learn Competitive Programming](3_Competitive_Programming/CP.md)
+
+<hr/>
 
 ## 4. Learn about 'Databases'
 
-![Value of Database](https://www.azquotes.com/picture-quotes/quote-once-the-business-data-have-been-centralized-and-integrated-the-value-of-the-database-larry-ellison-84-72-96.jpg)
+![Value of Database](Images/Value&#32;of&#32;Database.jpg)
 
 After we have been a competitive programmer for a little while, it's now the time to transform ourselves to ones known as - **the developers!**
 
@@ -61,11 +71,13 @@ But for a smooth transformation from a competitive programmer to a developer, we
 
 **Resource Links:**
 
- - Learning about Databases
+ - [Learning about Databases](4_DB/Learn_DB.md)
+
+<hr/>
 
 ## 5. Develop Something!
 
-![Create to understand](https://www.azquotes.com/picture-quotes/quote-what-i-can-t-create-i-don-t-understand-richard-p-feynman-93-54-95.jpg)
+![Create to understand](Images/Create&#32;to&#32;understand.jpg)
 
 It is indeed true that in an attempt of developing something, we  learn alot more from our experience which is impossible to learn otherwise. Whether we succeed in development or not, doesn't matter. At the end - we learn something new, everytime. There is no generalized way - which if followed - we shall be able to write error-free code. We are bound to make errors. We test them and debug them - again and again. This is what the process of development is, in a nutshell. 
 
@@ -76,31 +88,33 @@ All what we need to ensure during development is - the clarity of what we are de
 ### For C/C++ Developers:
 
 1. [GUI Development](5_Develop_Something/For&#32;C-C++&#32;Developers/GUI&#32;Development.md)
-2. Game Development
-3. OS Development
-4. Programming Language Development
-5. Miscellaneous
+2. [Game Development](5_Develop_Something/For&#32;C-C++&#32;Developers/Game&#32;Development.md)
+3. [OS Development](5_Develop_Something/For&#32;C-C++&#32;Developers/OS&#32;Development.md)
+4. [Programming Language Development](5_Develop_Something/For&#32;C-C++&#32;Developers/Programming&#32;Language&#32;Dev.md)
+5. [Miscellaneous](5_Develop_Something/For&#32;C-C++&#32;Developers/Miscellaneous.md)
 
 ### For Java Developers:
 
-1. GUI Development
-2. Android Development
-3. Web Services Development
-4. Programming Language Development
-5. Miscellaneous
+1. [GUI Development](5_Develop_Something/For&#32;Java&#32;Developers/GUI&#32;Development.md)
+2. [Android Development](5_Develop_Something/For&#32;Java&#32;Developers/Android&#32;Development.md)
+3. [Web Services Development](5_Develop_Something/For&#32;Java&#32;Developers/Web&#32;Services.md)
+4. [Programming Language Development](5_Develop_Something/For&#32;Java&#32;Developers/Prog&#32;Lang&#32;Dev.md)
+5. [Miscellaneous](5_Develop_Something/For&#32;Java&#32;Developers/Miscellaneous.md)
 
 ### For Python Developers:
 
-1. GUI Development
-2. Game Development
-3. Networking
-4. Programming Language Development
-5. Miscellaneous
+1. [GUI Development](5_Develop_Something/For&#32;Python&#32;Developers/GUI&#32;Development.md)
+2. [Game Development](5_Develop_Something/For&#32;Python&#32;Developers/Game&#32;Development.md)
+3. [Networking](5_Develop_Something/For&#32;Python&#32;Developers/Networking.md)
+4. [Programming Language Development](5_Develop_Something/For&#32;Python&#32;Developers/Programming&#32;Lang&#32;Dev.md)
+5. [Miscellaneous](5_Develop_Something/For&#32;Python&#32;Developers/Miscellaneous.md)
 
 > **Note:** While it may seem a huge list of options above, we haven't covered few of the most important development domains such as - Web Development, Machine Learning, etc. The reason is that - these domains are so huge, that they deserve their own separate mentioning! 
 
+<hr/>
+
 ## 6. Web Development
- ![Create a website](https://www.azquotes.com/picture-quotes/quote-create-a-website-that-expresses-something-about-who-you-are-that-won-t-fit-into-the-jaron-lanier-16-83-30.jpg)
+ ![Create a website](Images/Create&#32;a&#32;website&#32;to&#32;express.jpg)
 
 Until now, you were in a comfort-zone because you were always able to do something at each step with the programming language you chose long back. But now it's time to leave your comfort-zone and reach a place - *where magic happens!* 
 
@@ -108,35 +122,52 @@ By leaving the comfort zone, I mean - you will have to learn a new set of progra
 
 **Resource Links:**
 
-- Front End Development
-- Back End Development
-- DevOps
-- Miscellaneous JS Projects
+- [Front End Development](6_Web_Dev/1_Front_End_Dev.md)
+- [Back End Development](6_Web_Dev/2_Back_End_Dev.md)
+- [DevOps](6_Web_Dev/3_Dev_Ops.md)
+- [Miscellaneous JS Projects](6_Web_Dev/4_Miscellaneous_JS_Projects.md)
  
-## 7. Data Science
+<hr/>
 
-![Importance of Data Science](https://www.azquotes.com/picture-quotes/quote-in-the-next-10-years-data-science-and-software-will-do-more-for-medicine-than-all-of-vinod-khosla-94-40-16.jpg)
+## 7. Data Science and Machine Learning
+
+![Importance of Data Science](Images/Importance&#32;of&#32;Data&#32;Science.jpg)
 
 Of course, *Data Science, Machine Learning, Artificial Intelligence, etc.* are the current hot topics that almost every programmer has heard near infinite number of times. This domain might be the comfort zone for Python developers, but it is suggested that even they should step out of it and learn new tools, which are extensively used in this field, such as - **R programming** or **MATLAB.**
 
 **Resource Links:**
 
-- Mathematics behind Data Science
-- Machine Learning
-- Deep Learning
+- [Data Science](7_Data_science_and_ML/Data&#32;Science.md)
+- [Machine Learning](7_Data_science_and_ML/Machine&#32;Learning.md)
+- [Deep Learning](7_Data_science_and_ML/Deep&#32;Learning.md)
+
+<hr/>
 
 ## Step 8: Artificial Intelligence
 
-![AI is tough!](https://www.azquotes.com/picture-quotes/quote-a-year-spent-in-artificial-intelligence-is-enough-to-make-one-believe-in-god-alan-perlis-22-90-22.jpg)
+![AI is tough!](Images/AI&#32;is&#32;tough.jpg)
 
 Once studied the concepts of Machine Learning, now we shall handle the problem of - 'machine intelligence' in a more generalized format - in a domain called as **Artificial Intelligence.** 	Many new branches such as - *Neural Networks, Natural Language Processing, Computer Vision, etc.* are waiting to be explored by us in this domain.
 
 **Resource List:** 
 
+- [Artificial Intelligence](8_Artificial_Intelligence/AI.md)
+- [Neural Networks](8_Artificial_Intelligence/NN.md)
+- [Reinforcement Learning](8_Artificial_Intelligence/RL.md)
+- [Natural Language Processing](8_Artificial_Intelligence/NLP.md)
+- [Pattern Recognition](8_Artificial_Intelligence/Pattern_Recognition.md)
+- [Computer Vision](8_Artificial_Intelligence/CV.md)
+
+<hr/>
+
 ## Step 9: Cryptography & CyberSecurity 
 
-![Cryptography quote](https://www.azquotes.com/picture-quotes/quote-there-are-two-kinds-of-cryptography-in-this-world-cryptography-that-will-stop-your-kid-bruce-schneier-110-97-64.jpg)
+![Cryptography quote](Images/Cryptography&#32;quote.jpg)
 
 **Resource Links:**
+
+- [Cryptography and Network Security](9_Cryptography_n_Cybersec/Crypt_n_Security.md)
+- [Ethical Hacking](9_Cryptography_n_Cybersec/Ethical_Hacking.md)
+- [Reverse Engineering](9_Cryptography_n_Cybersec/Reverse_Engineering.md)
 
 <hr/>
