@@ -53,13 +53,14 @@
 
 ## 2. ReactJS Framework
 
-> **Note: While there are other two options of framework as well - Angular and Vue, I personally prefer React.**
+> **Note: While there are other two options of frameworks as well - Angular and Vue, I personally prefer React.**
 
 ### Videos:
 
-**1. React for Beginners by Simo Edwin**
+**1. React for Beginners by Academind**
 
-- [React Tutorials for Beginners](https://www.youtube.com/playlist?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
+- [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+- [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
 **2. React Tutorials by Brad Traversy**
 
