@@ -137,8 +137,7 @@ Of course, *Data Science, Machine Learning, Artificial Intelligence, etc.* are t
 
 **Resource Links:**
 
-- [Data Science](7_Data_science_and_ML/Data&#32;Science.md)
-- [Machine Learning](7_Data_science_and_ML/Machine&#32;Learning.md)
+- [Data Science and ML](7_Data_science_and_ML/Data&#32;Science&#32;and&#32;ML.md)
 - [Deep Learning](7_Data_science_and_ML/Deep&#32;Learning.md)
 
 <hr/>

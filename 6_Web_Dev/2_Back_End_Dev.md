@@ -52,7 +52,7 @@ I would highly recommend you to purchase this course, because the course is not 
 - RabbitMQ in Depth by Gavin Roy
     + [Download as pdf](https://www.pdfdrive.com/download.pdf?id=176378042&h=02d485847db4f3ac75e4865c4d8e86cf&u=cache)
 - ElasticSearch in Action by Radu Gheorghe
-    + [Download as pdf]()
+    + [Download as pdf](https://www.pdfdrive.com/download.pdf?id=38385853&h=8d84ce32f2898cb8a7caaa7bf8a7b16c&u=cache)
 
 <hr/>
 
