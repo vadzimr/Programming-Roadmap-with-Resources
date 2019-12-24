@@ -50,7 +50,10 @@
 
 ### Books:
 
-- The Elements of Statistical Learning by TRJ
+- An Introduction to Statistical Learning by Robert Tibshirani 
+    + [Download as pdf](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+
+- The Elements of Statistical Learning by Robert Tibshirani
     + [Download as pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 - Scikit-learn User Guide *(for reference)*
