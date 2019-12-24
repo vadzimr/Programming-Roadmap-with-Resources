@@ -2,7 +2,7 @@
 
 ### Videos:
 
-**1. Deep Learning by Dr. PK Biswas**
+**1. Deep Learning by Dr. PK Biswas, IIT-KGP**
 
 - [Deep Learning by Dr. PK Biswas](https://www.youtube.com/playlist?list=PLbRMhDVUMngc7NM-gDwcBzIYZNFSK2N1a)
 

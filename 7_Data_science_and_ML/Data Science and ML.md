@@ -1,4 +1,4 @@
-# Data Science
+# Data Science and Machine Learning
 
 ## 1. Pre-requisite Mathematics 
 
@@ -12,7 +12,7 @@
 
 - [Linear Algebra by Gilbert Strang, MIT](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
-## Books:
+### Books:
 
 - Probability and Mathematical Statistics by Prasanna Sahoo
     + [Download as pdf](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf)

@@ -150,7 +150,7 @@ Once studied the concepts of Machine Learning, now we shall handle the problem o
 
 **Resource List:** 
 
-- [Artificial Intelligence](8_Artificial_Intelligence/AI.md)
+- [Intro to Artificial Intelligence](8_Artificial_Intelligence/AI.md)
 - [Neural Networks](8_Artificial_Intelligence/NN.md)
 - [Reinforcement Learning](8_Artificial_Intelligence/RL.md)
 - [Natural Language Processing](8_Artificial_Intelligence/NLP.md)
