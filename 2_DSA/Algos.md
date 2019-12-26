@@ -30,29 +30,214 @@
         * Alternate positive and negative elements ([code 1](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/) and [code 2](https://www.geeksforgeeks.org/rearrange-array-in-alternating-positive-negative-items-with-o1-extra-space-set-2/))
         * Move all zeros to the end ([code 1](https://www.geeksforgeeks.org/move-zeroes-end-array/) and [code 2](https://www.geeksforgeeks.org/move-zeroes-end-array-set-2-using-single-traversal/))
         * Segregate Even and Odd numbers ([code 1](https://www.geeksforgeeks.org/segregate-even-and-odd-numbers/), [code 2](https://www.geeksforgeeks.org/segregate-even-odd-set-2/) and [code 3](https://www.geeksforgeeks.org/segregate-even-odd-numbers-set-3/))
+        * Move all occurences of element to end of linked list ([code](https://www.geeksforgeeks.org/move-occurrences-element-end-linked-list/))
     + Dutch National Flag Problem ([video](https://www.youtube.com/watch?v=ER4ivZosqCg) / [code](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/))
     + Biggest Number Problem ([code](https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/))
     + Pair formation such that max pair sum is minimized ([code](https://www.geeksforgeeks.org/pair-formation-maximum-pair-sum-minimized/))
+    + Check if reversing a sub array make the array sorted ([code](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/))
     + Kth Smallest ([code 1](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/), [code 2](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time/) and [code 3](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/))
     + External sorting ([code](https://www.geeksforgeeks.org/external-sorting/))
 
+
 - *Searching Based Problems:*
+
+    + Binary Search
+    + Find the missing element
+    + Find the repeating and missing element
+    + Find the missing number in Arithmetic Progression
+    + Efficient search where difference between adjacent is 1
+    + Median of two sorted arrays 
+    + Median of two sorted arrays with different sizes
+    + Find a fixed point in an array
+    + Find the peak element in the array
+    + Painter's Partition Problem
 
 
 **b) Divide and Conquer**
 
-**c) Recursion and Backtracking**
+    + Tiling Problem
+    + The Skyline Problem
+    + Calculate pow(x, n)
+    + Closest pair of points
+    + Multiply two polynomials
+    + Strassen's Matrix Multiplication
+    + Karatsuba algorithm for fast multiplication
+    + Collect all coins in minimum number of steps
+    + Frequency of each element in sorted array in less than O(n) time
+    + Place k elements such that minimum distance is maximized
 
-**d) Greedy Algorithms**
+**c) Greedy Algorithms**
+
+    + Activity Selection Problem
+    + Egyptian Fraction
+    + Job Sequencing Problem
+    + Huffman Coding
+    + Huffman Decoding
+    + Water connection problem
+    + Policeman catches theives
+    + Minimum swaps for bracket balancing
+    + Fitting shelves problem
+    + Assign mice to holes
+    + K centers problem
+    + Fractional Knapsack Problem
+    + Maximize array sum after 'k' negations
+    + Partition into two subarrays such that difference is maximum
+    + Minimum operations to make GCD of an array a multiple of 'k'
+    + Lexicographically smallest array with at most 'k' consecutive swaps
+    + Lexicographically largest array with at most 'k' consecutive swaps
+    + Largest palindromic number by permuting digits
+    + Max trains for which stoppage is possible
+    + Minimum and maximum amount to buy all N candles
+    + Minimize cash flow among friends
+    + Minimum cost to cut a board into squares
+
+**d) Recursion and Backtracking**
+
+    + The Kinght's Tour Problem
+    + Rat in a maze
+    + N Queen Problem
+    + Subset Sum
+    + M Coloring Problem
+    + Hamiltonian Cycle
+    + Sudoku
+    + Solving Cryptharithmetic puzzles
+    + Magnetic Puzzle
+    + Remove Invalid Parentheses
+    + Tug of War
+    + Word Break Problem
+    + Minimize number of unique characters
+    + All possible paths from top left to bottom right corners in m*n matrix
+    + Shortest safe route in a maze of landmines
+    + Longest possible route in a matrix with hurdles
+    + Max number possible by doing atmost 'k' swaps
+    + If there is a path of more than 'k' length from source
+    + Print all possible strings that can be made by placing spaces
+    + Print all longest common subsequence in lexicographical order 
 
 **e) Dynamic Programming**
 
-**f) Segment Trees, Tries and Fenwick Trees**
+- Theory
+    + Tabulation vs Memoization
+    + Optimal substructure property
+    + Overlapping subsproblems property
+    + How to solve DP problems?
+    + Bitmasking and DP
+    + Digit DP
+
+- Easy Problems
+    + Kadane's Algorithm
+    + Smallest sum contiguous array
+    + Numbers
+        * Ugly
+        * Fibonacci
+        * Catalan
+        * Bell
+        * Binomial Coefficients
+    + Gold mine problem
+    + Coin change problem
+    + Friends Pairing problem
+    + Subset sum problem
+    + Perfect sum problem
+    + Cutting a rod
+    + Tiling with Dominoes
+    + Painting fence algorithm
+    + Subsequences
+        * Longest Common Subsequence
+        * Longest Repeated Subsequence
+        * Longest Increasing Subsequence
+        * Maximum sum bitonic subsequence
+        * Maximum sum increasing subsequence
+    + Longest Common Substring
+    + Convert to strictly increasing array with min changes
+
+- Mediocre Problems:
+    + 0-1 Knapsack problem
+    + Unbounded Knapsack
+    + Weighted Job Scheduling Problem
+    + Temple Offering Problem
+    + Egg Dropping Problem
+    + Dice Throw Problem 
+    + Vertex Cover Problem
+    + Tile Stacking Problem
+    + Box Stacking Problem
+    + Highway Billboard Problem
+    + Minimum sum submatrix problem 
+    + Wildcard Pattern Matching problem
+    + Print equal sum sets of an array
+    + Subsequences:
+        * Longest Palindromic Subsequence
+        * All Palindromic Subsequences
+        * Shortest Uncommon Subsequence
+        * Longest Common Increasing Subsequence
+    + Minimum insertions to form a palindrome
+    + Minimum deletions to form a palindrome
+    + Minimum and maximum values of an expression with * and +
+    + Shortest path in Multistage Graph
+
+- Difficult Problems:
+    + Palindrome Partitioning
+    + Word Wrap Problem
+    + Bridge and Torch Problem
+    + Largest rectangular sub-matrix having sum divisible by 'k'
+    + Number of subsequences in a string divisible by 'n'
+    + Maximum profit by buying and selling a share atmost 'k' times
+    + Longest Arithmetic Progression
+    + Longest Geometric Progression
+    + Shortest Common Supersequence 
+    + Traversal of tree with 'k' jumps allowed between nodes of same height 
+
+**f) Tries, Segment Trees, Fenwick Trees and Suffix Trees**
+
+- Tries
+    + Concept
+    + Problems
+        - XOR and Insert
+        - Substring XOR
+        - Mastermind and XOR Minimization
+        - Shubam and Subarray XOR
+        - Xoring in base 10
+        - Xor sequence
+
+- Segment Trees
+    + Concept
+    + Problems
+        * Distinct Integers in Range
+        * Alpha and His Array
+        * XOR sum
+        * Class Representatives
+        * XOR in Sequence
+        * Travelling between cities
+        * A tree problem
+
+- Fenwick Trees
+    + Concept
+    + Problems
+        * String query
+        * Shil and Palindrome research
+        * Permutation and Inversions
+        * Sherlock and Robots
+        * Making chocolate cakes    
+        * Sherlock and Tree
+
+- Suffix Trees
+    + Concept
+    + Problems
+        * Employee Performance
+        * Computer Virus
+        * Power of String
+        * Google Text Predictions
 
 **g) String Algorithms**
 
-**h) Geometrical Algorithms**
+- Pattern Searching
+    + KMP Algorithm
+    + Z Algorithm
+    + Seach a word in 2D grid of characters
 
-**i) Mathematical Algorithms**
-
-**j) Miscellaneous Algorithms**
+- Mixed Problems:
+    + Generate distinct subsequences in lexicographical order
+    + Print all permutations in sorted order
+    + Anagram substring search
+    + Count of total anagram substrings
+    + Find most frequent digit without using array/string
+    + How to design URL shortner?

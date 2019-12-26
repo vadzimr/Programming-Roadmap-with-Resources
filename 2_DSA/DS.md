@@ -128,34 +128,228 @@ If you are comfortable with C or C++ programming, you *must watch* this lecture 
 **f) Binary Trees:**
 
 - *Basics:*
+
+	+ Introduction
+	+ Types of Binary Trees
+	+ Traversals
+	+ Level order traversal
+	+ Preorder traversal
+	+ Inorder traversal
+	+ Postorder traversal
+	+ Insertion of node
+	+ Deletion of node
+	+ Sum of nodes
+	+ Depth of BT
+	+ Types of BTs
+	+ Comparing two BTs
+	+ Foldable BT
+	+ Symmetric BT
+	+ Mirror a BT
+
 - *Traversal based Problems:*
+
+	+ Max element in BT
+	+ Search a node
+	+ Spiral order traversal
+	+ Reverse level order traversal
+	+ Boundary traversal
+	+ Print left-most and right-most nodes
+	+ Vertical order traversal
+	+ Vertical sums
+	+ Different views of BT
+	+ Max width of BT
+	+ Difference between odd and even levels
+	+ Postorder from inorder and preorder
+	+ Find depth from leaf-node string
+	+ Check if leaves are at same level
+	+ Print root to leaf paths
+	+ Sum of all root to leaves
+	+ Check if a path makes the given sum
+	+ Diameter of BT
+	+ Max sum path between two leaves
+	+ All 'k' sum paths
+
 - *BT Construction Problems:*
+
+	+ Basic Theory
+	+ BT from inorder and preorder
+	+ BT from preorder and postorder
+	+ Sum tree
+	+ Min swaps to convert BT to BST
+	+ BT to DLL
+
 - *Least Common Ancestor:*
+
+	+ LCA
+	+ Distance between two nodes
+	+ kth ancestor
+	+ Check if nodes are cousins
+
 - *Miscellaneous:*
+
+	+ Tree Isomorphism Problem
+	+ Factor Tree of a given number
+	+ Remove nodes on root to leaf paths of length < K
+	+ Find All Duplicate Subtrees
+	+ Tilt of Binary Tree
+	+ Number of turns to reach from one node to other in BT
+	+ Path length having maximum number of bends
+	+ Ways to color a skewed tree such that parent and child have different colors
+	+ Minimum no. of iterations to pass information to all nodes in the tree
 
 **g) Binary Search Trees:**
 
 - *Basics:*
+
+	+ BST search and insertion
+	+ Inorder predecessor and successor 
+	+ BST deletion
+	+ Check if array can represent level order of BST
+	+ Check if array can represent preorder of BST
+	+ 2 nodes are swapped
+	+ LCA in BST
+	+ Shortest distance between 2 nodes
+	+ Check if BT is BST
+	+ Largest BST in BT
+	+ Print common nodes
+	+ Handle Duplicates in BST
+
 - *Mixed Problems:*
+
+	+ kth smallest 
+	+ Median of BST
+	+ Closest element in BST
+	+ Pair with given sum
+	+ Add greater nodes
+	+ Print keys in range
+	+ Interval tree
 
 **h) Heaps:**
 
 - *Implementation:*
+
+	+ Binary Heap
+	+ Heapify is O(n)
+	+ Priority queues in STL
+
 - *Problems:*
+
+	+ kth smallest 
+	+ Check if array represents a heap
+	+ HeapSort
+	+ Sort almost sorted array
+	+ K most occurrences
+	+ Merge k sorted array
+	+ Median of running stream
+	+ Connect n ropes with minimum cost
 
 **i) Graphs:**
 
 - *Graph Traversals:*
+
+	+ Graph Representation
+	+ BFS
+	+ DFS
+	+ Check if there is a path
+	+ Print path between two nodes
+	+ Bipartite Graph
+	+ Flood Fill Algorithm
+	+ Connecting dots
+	+ Largest Island
+	+ Stepping Numbers
+
 - *Cycles in Graph:*
+
+	+ Detect a cycle in a directed graph
+	+ Assign directions so that directed graph remains acyclic
+	+ Detect a negative cycle in a graph
+	+ Cycles of length n in an undirected graph
+	+ Cycles with odd weight
+	+ Cycles with odd length
+	+ Clone a DAG
+	+ Magical indices in an array
+
 - *Minimum Spanning Tree:*
+
+	+ Union Find Algorithm
+	+ Prim's Algorithm
+	+ Kruskal's Algorithm
+	+ Boruvka's Algorithm
+	+ Steiner Tree
+	+ Reverse Delete Algorithm for MST
+	+ Total number of spanning trees in graph
+	+ Minimum product spanning tree
+
 - *Shortest Path Algorithms:*
+
+	+ Dijkstra's Algorithm
+	+ Bellman Ford Algorithm
+	+ Floyd Warshall Algorithm
+	+ Dial's Algorithm	
+	+ Karp's minimum mean weight cycle Algorithm
+	+ 0-1 BFS
+	+ Minimum edges to reverse to make a path from src to dest
+	+ A* algorithm
+	+ Longest path in DAG
+	+ Minimum Cost Path with Left, Right, Bottom and Up moves allowed
+	+ Find Shortest distance from a guard in a Bank
+
 - *Connected Components:*
+
+	+ Articulation Points
+	+ Bridges
+	+ Biconnected Graph
+	+ Biconnected Components
+	+ Eulerian path
+	+ Fleury's Algorithm
+	+ Kosaraju's Algorithm
+	+ Tarjan's Algorithm
+	+ Transitive Clousre of a graph
+	+ Find if array of strings can be chained to form a circle
+	+ Find the mother vertex in a graph
+
 - *Topological Sorting:*
+
+	+ Topological Sorting
+	+ Kahn's Algorithm
+	+ Maximum edges that can be added in a DAG so that it remains a DAG
+	+ Given a sorted dictionary, find order of characters
+
 - *Flow Problems:*
+
+	+ Max Flow Intro
+	+ Ford-Fulkerson Algorithm
+	+ Dinic's Algorithm
+	+ Max Flow Min Cost Intro
+	+ Cycle Cancelling Algorithm
+	+ Hungarian Algorithm
+	+ Min Cut Problem
+	+ Channel Assignment Problem
+
+- *Miscellaneous Problems:*
+
+	+ Number of Triangles in an undirected graph
+	+ Snake and Ladder Problem
+	+ Maximum Matching Problem
+	+ Two Clique Problem
+	+ Stable Marriage Problem
 
 **j) Other types of Trees:**
 
 - *AVL Trees:*
+
+	+ Insertion in AVL Tree
+	+ Deletion in AVL Tree
+	+ AVL with Duplicates
+
 - *Red-Black Trees:*
-- *Binary Indexed  Trees*
+
+	+ Introduction
+	+ Insertion in Red Black Trees
+	+ Deletion in Red Black Trees
+
 - *B Trees*
+
+	+ Introduction
+	+ Insertion in B Tree
+	+ Deletion in B Tree
