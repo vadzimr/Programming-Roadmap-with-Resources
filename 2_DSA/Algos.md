@@ -241,3 +241,113 @@
     + Count of total anagram substrings
     + Find most frequent digit without using array/string
     + How to design URL shortner?
+
+**h) Mathematical Algorithms**
+
+- GCD and LCM
+
+    + GCD and LCM of array
+    + GCD of two numbers with one number being very large
+    + Stein's Algorithm
+    + Minimum gcd operations to make all array elements one
+    + GCD of floating point numbers
+    + Find pair with maximum GCD in an array
+    + Summation of GCD of all the pairs up to N
+    + Largest subsequence having GCD greater than 1
+    + Largest subarray with GCD one
+
+- Prime Factorization and Divisors
+
+    + Prime Factors
+    + k-th prime factor of a given number
+    + Pollard's Rho Algorithm 
+    + Prime Factorization using Sieve O(log n) for multiple queries
+    + Find numbers with n-divisors in a given range
+    + Prime factors of a big number
+
+- Fibonacci Numbers
+
+    + Facts about Fib numbers
+    + GCD and Fibonacci Numbers
+    + Prime numbers and Fibonacci
+    + Fibonacci modulo p
+    + An efficient way to check whether n-th Fibonacci number is multiple of 10
+    + Finding number of digits in n’th Fibonacci number
+    + Count Possible Decodings of a given Digit Sequence
+
+- Modular Arithmetic
+
+    + Modular multiplicative inverse
+    + Modular Division
+    + Find square root under modulo p
+    + Euler's Criterion
+    + Multiply large integers under large modulo
+    + How to compute mod of a big number?
+    + Find (a^b)%m where ‘a’ is very large.
+    + Find value of y mod (2 raised to power x)
+    + Given two numbers a and b find all x such that a % x = b
+    + Distributing M items in a circle of size N starting from K-th position
+    + Discrete logarithm (Find an integer k such that a^k is congruent modulo b)
+    + Finding ‘k’ such that its modulus with each array element is same
+    + Trick for modular division ( (x1 * x2 …. xn) / b ) mod (m)
+    + Count number of solutions of x^2 = 1 (mod p) in given range
+    + Breaking an Integer to get Maximum Product
+    + Program to find remainder without using modulo or % operator
+
+- Euler Totient Function
+
+    + Euler’s Totient Function
+    + Optimized Euler Totient Function for Multiple Evaluations
+    + Euler’s Totient function for all numbers smaller than or equal to n
+    + Primitive root of a prime number n modulo n
+    + Euler’s Four Square Identity
+
+- Prime Numbers and Primality Tests
+
+    + Prime Numbers
+    + Theorems
+    + Primality Tests
+    + Circular Primes less than n
+
+**i) Geometrical Algorithms**
+
+- Lines
+
+    + Given n line segments, find if any two intersect
+    + Klee's Algorithm
+    + Minimum lines to cover all points
+    + Find line passing through two given points
+    + Reflection of a point about a line
+    + Number of ordered points satisfying given line equation
+
+
+- Triangle
+
+    + Count integral points inside a triangle
+    + Find all sides of triangle with given hypotenuse and area
+    + Find all angles of a given triangle
+    + Find Circumcenter of the triangle
+    + Triangular Matchstick Number
+
+- Quadrilaterals:
+
+    + Total area of two overlapping rectangles
+    + Check if four segments form a rectangle
+    + Check if a given point lies inside a rectangle or not
+    + Paper cut into minimum number of squares
+    + Find missing point of parallelogram
+
+- Circle
+
+    + Non crossing lines to connect points in circle
+    + Pizza Cut problem
+    + Angular sweep
+    + Find area of circular segment
+    + Count of obtuse angles in a circle with ‘k’ equidistant points between 2 given points
+
+- Polygon and Convex Hull
+
+    + Minimum cost polygon triangulation
+    + Tangent between two convex polygons
+    + Convex Hull
+
